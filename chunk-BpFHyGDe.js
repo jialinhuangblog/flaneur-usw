@@ -1,0 +1,1 @@
+import"./chunk-B6mU5AHc.js";import{At as lt,Ct as _,Dt as en,Et as dt,Ft as tn,Nt as on,Pt as rn,at as C,bt as R,ft as J,jt as m,kt as le,mt as M,nt as A}from"./main-3HFQI2TY.js";export{on as getApp};

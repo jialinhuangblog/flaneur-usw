@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="7 7.5 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 66 號公路盾牌：透明底，只有盾牌本身。白底黑框，上面一條寫 US，下面大字 66。PNG 全部從這份產。 -->
+  <path d="M12 10 Q22 13 32 9 Q42 13 52 10 Q55 22 53 34 Q50 48 32 56 Q14 48 11 34 Q9 22 12 10 Z" fill="#111111"/>
+  <path d="M15 13.5 Q23.5 16 32 12.5 Q40.5 16 49 13.5 Q51 23 49.5 33.5 Q47 45.5 32 52.5 Q17 45.5 14.5 33.5 Q13 23 15 13.5 Z" fill="#F7F3EA"/>
+  <rect x="14.6" y="21" width="34.8" height="2" fill="#111111"/>
+  <text x="32" y="20" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="6" fill="#111111">US</text>
+  <text x="32" y="43" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="19" fill="#111111">66</text>
+</svg>
